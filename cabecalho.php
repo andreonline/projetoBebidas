@@ -2,11 +2,12 @@
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title> Estoque </title>
     </head>
     <body>
         <?php
-        // put your code here
+        echo "teste";
         ?>
+        adfag
     </body>
 </html>
